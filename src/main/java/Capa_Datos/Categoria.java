@@ -37,6 +37,10 @@ public class Categoria {
     public void setDescripcion(String descripcion) {
         this.descripcion = descripcion;
     }
+    //Bienvenidos sise
     
+    public static void main(String[] args) {
+        System.out.println("Hola como estas");
+    }
     
 }
